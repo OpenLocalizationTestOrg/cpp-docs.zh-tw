@@ -50,6 +50,6 @@ Multithreaded applications can access regular DLLs that dynamically link to MFC 
  [DLL Frequently Asked Questions](../build/dll-frequently-asked-questions.md)
 
 
-<!--HONumber=Jan17_HO1-->
+<!--HONumber=Jan17_HO2-->
 
 
